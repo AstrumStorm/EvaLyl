@@ -10,8 +10,8 @@ Programa para consultar el nombre de institución, id y permisos de administrado
 
 ## Instalación
 ```console
-$ git clone https://github.com/lughz4nn/Eva-Lyl
-$ cd Eva-Lyl
+$ git clone https://github.com/AstrumStorm/EvaLyl
+$ cd EvaLyl
 $ pip3 install -r requirements.txt
 ```
 
