@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#By: lughz4nn
+#By: AstrumStorm
 
 import sys
 import json
